@@ -9,9 +9,10 @@
 - Activate Account
 - Deactivate Account
 - Logout
+
 #To be developed
 
-<span style="color:blue">**Customers Have Following Access for this Application store site:-**</span>
+<span style="color:blue">**Customers Have Following Access for this Application :-**</span>
 - Login
 - Check Account information
 - Check Balance
