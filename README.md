@@ -10,8 +10,6 @@
 - Deactivate Account
 - Logout
 
-#To be developed
-
 <span style="color:blue">**Customers Have Following Access for this Application :-**</span>
 - Login
 - Check Account information
